@@ -10,7 +10,7 @@ int isprime(long long n) {
 }
 int main()
 {
-	long long int A, B, N; // ÷èñëî 1 íå ñ÷èòàåì ïðîñòûì.
+	long long int A, B, N; // Ñ‡Ð¸ÑÐ»Ð¾ 1 Ð¿Ñ€Ð¾ÑÑ‚Ñ‹Ð¼ Ð½Ðµ ÑÑ‡Ð¸Ñ‚Ð°ÐµÐ¼.
 	cin >> N;
 	for(int i=1;i<=N;i++){
 	cin >> A >> B;
